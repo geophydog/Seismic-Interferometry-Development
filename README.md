@@ -2,5 +2,5 @@
 
 ***
 
-# :one: Knowledge graph of Seismic Interferometry
-![Graph](https://github.com/geophydog/Seismic-Interferometry-Development/blob/master/Images/Seismic-Noise-Development.png)
+# :one: Knowledge graph of Seismic Interferometry Development
+![Graph](https://github.com/geophydog/Seismic-Interferometry-Development/blob/master/Images/seismic-interferometry-development.png)
